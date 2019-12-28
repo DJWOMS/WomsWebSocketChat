@@ -6,4 +6,4 @@ __pycache__/
 *.py[cod]
 .pyc
 .env
-
+db.sqlite3
